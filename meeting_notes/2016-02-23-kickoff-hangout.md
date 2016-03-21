@@ -104,21 +104,21 @@ Sam:  I agree with Charity’s comment about a mission statement. Also, it would
 
 ACTIONS:
 
-[x] Mission statement - Charity (in for a rough draft, welcome collaboration)
+- [x] Mission statement - Charity (in for a rough draft, welcome collaboration)
 
-[ ] Examples of great and worthwhile existing public postmortems- OWNER NEEDED
+- [ ] Examples of great and worthwhile existing public postmortems- OWNER NEEDED
 
-[ ] A few book reports about existing public postmortems - Charity for the first one
+- [ ] A few book reports about existing public postmortems - Charity for the first one
 
-[ ] Talking to customers/consumers of postmortems about what they might want to see in them- OWNER NEEDED
+- [ ] Talking to customers/consumers of postmortems about what they might want to see in them- OWNER NEEDED
 
-[ ] Recruiting companies to get involved - OWNER NEEDED
+- [ ] Recruiting companies to get involved - OWNER NEEDED
 
-[ ] Develop an open sourced post-mortem report format - OWNER NEEDED
+- [ ] Develop an open sourced post-mortem report format - OWNER NEEDED
 
-[ ] Find a way to solicit and accept feedback from companies and individuals about: what they would like to know about when learning from an incident. - OWNER NEEDED
+- [ ] Find a way to solicit and accept feedback from companies and individuals about: what they would like to know about when learning from an incident. - OWNER NEEDED
 
-[X] Create a GitHub repo to store artifacts we generate - Ben
+- [X] Create a GitHub repo to store artifacts we generate - Ben
 
-[ ] Should write a blog post about some of these ideas. Goes towards recruiting other companies to participate. Depends on mission statement. - Ben
+- [ ] Should write a blog post about some of these ideas. Goes towards recruiting other companies to participate. Depends on mission statement. - Ben
 
